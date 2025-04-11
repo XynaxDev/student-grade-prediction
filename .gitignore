@@ -1,1 +1,5 @@
 gpenv/
+__pycache__/
+data/*
+!data/student_data.csv
+models/
