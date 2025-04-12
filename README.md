@@ -16,7 +16,7 @@ Discover **Student Grade Prediction**, a dynamic machine learning project that l
 
 ## Project Overview
 
-This project analyzes a [Kaggle dataset]([insert_kaggle_url_here](https://www.kaggle.com/datasets/stealthtechnologies/predict-student-performance-dataset)) of 1,388 student records to predict grades using **Study Hours** and **Attendance Percentage**. The linear regression model delivers an R² score of 0.65, explaining 65% of grade variance, with a root mean square error (RMSE) of 5.3. A key finding: **Study Hours** drives 98% of predictions, while **Attendance Percentage** contributes only 2%.
+This project analyzes a [Kaggle dataset](https://www.kaggle.com/datasets/stealthtechnologies/predict-student-performance-dataset) of 1,388 student records to predict grades using **Study Hours** and **Attendance Percentage**. The linear regression model delivers an R² score of 0.65, explaining 65% of grade variance, with a root mean square error (RMSE) of 5.3. A key finding: **Study Hours** drives 98% of predictions, while **Attendance Percentage** contributes only 2%.
 
 - **Objective**: Develop core machine learning expertise and create a compelling portfolio for internship opportunities.
 - **Dataset**: Kaggle dataset with grades, study hours, and attendance records.
